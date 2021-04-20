@@ -8,3 +8,4 @@ The classifier is build using VGG16 architecture. The model has an validation ac
 ## The webapp is build using streamlit.
 The app shows the classification output.
 
+## Sample output is given in .webm file.
