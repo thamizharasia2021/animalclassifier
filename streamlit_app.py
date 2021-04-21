@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import streamlit as st
 from keras.models import load_model
-model = load_model('./animals_vgg.h5')
+model = load_model('./animals_vgg82.h5')
 
 classes = { 
     0:'its a beagle',
